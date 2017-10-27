@@ -125,7 +125,7 @@
       "title": "Inform with the Paragraph Element",
       "description": [
         "<code>p</code> elements are the preferred element for normal-sized paragraph text on websites. P is short for \"paragraph\".",
-        "You can create a <code>p</code> element like this:",
+        "Kamu bisa membuat sebuah <code>p</code> elemen seperti ini:",
         "<code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>",
         "Create a <code>p</code> element below your <code>h2</code> element, and give it the text \"Hello Paragraph\"."
       ],
@@ -4875,7 +4875,7 @@
       "id": "bad80fee1348bd9aedf08723",
       "title": "Use RGB to Color Elements Green",
       "description": [
-        "Now change the <code>body</code> element's background color to the <code>rgb</code> value green: <code>rgb(0, 255, 0)</code>"
+        "Sekarang ganti <code>body</code> elemen warna dasar ke <code>rgb</code> nilai hijau: <code>rgb(0, 255, 0)</code>"
       ],
       "titleRU": "Используйте формат RGB, чтобы сделать элементы зелёными",
       "descriptionRU": [
